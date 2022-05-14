@@ -1,0 +1,17 @@
+127.0.0.1 - - [14/May/2022:11:36:14 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [14/May/2022:11:36:15 +0530] "GET /EGOnlinesystem/ HTTP/1.1" 404 770
+0:0:0:0:0:0:0:1 - - [14/May/2022:11:36:15 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [14/May/2022:11:36:24 +0530] "GET /EGOnlinesystem/Payment.jsp HTTP/1.1" 200 4317
+0:0:0:0:0:0:0:1 - - [14/May/2022:11:36:24 +0530] "GET /EGOnlinesystem/components/jquery-3.6.0.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [14/May/2022:11:36:24 +0530] "GET /EGOnlinesystem/components/pay.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [14/May/2022:11:36:24 +0530] "GET /EGOnlinesystem/Views/bootstrap.min.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [14/May/2022:11:38:29 +0530] "GET /EGOnlinesystem/Index.jsp HTTP/1.1" 200 1029
+0:0:0:0:0:0:0:1 - - [14/May/2022:11:38:29 +0530] "GET /EGOnlinesystem/components/main.js HTTP/1.1" 404 792
+0:0:0:0:0:0:0:1 - - [14/May/2022:11:38:29 +0530] "GET /EGOnlinesystem/components/jquery-3.2.1.min.js HTTP/1.1" 404 804
+0:0:0:0:0:0:0:1 - - [14/May/2022:11:38:29 +0530] "GET /EGOnlinesystem/js/jquery.min.js HTTP/1.1" 404 790
+0:0:0:0:0:0:0:1 - - [14/May/2022:11:38:29 +0530] "GET /EGOnlinesystem/img/payments1.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [14/May/2022:11:40:19 +0530] "POST /EGOnlinesystem/PaymentApi HTTP/1.1" 200 2059
+0:0:0:0:0:0:0:1 - - [14/May/2022:11:41:30 +0530] "GET /EGOnlinesystem/Index.jsp HTTP/1.1" 200 1029
+0:0:0:0:0:0:0:1 - - [14/May/2022:11:41:30 +0530] "GET /EGOnlinesystem/components/jquery-3.2.1.min.js HTTP/1.1" 404 804
+0:0:0:0:0:0:0:1 - - [14/May/2022:11:41:30 +0530] "GET /EGOnlinesystem/components/main.js HTTP/1.1" 404 792
+0:0:0:0:0:0:0:1 - - [14/May/2022:11:41:30 +0530] "GET /EGOnlinesystem/js/jquery.min.js HTTP/1.1" 404 790
